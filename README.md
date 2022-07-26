@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## Bem-vindo(a) ao perfil do Pedro Lopes 😁
 
-<!--
 **pedrolopes07/pedrolopes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  <div>
   <a href="https://github.com/pedrolopes07">
@@ -25,3 +24,5 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/pedrolopes07/pedrolopes07/blob/output/github-contribution-grid-snake.svg)
+
+</div>
